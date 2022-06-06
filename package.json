@@ -8,6 +8,10 @@
     "build": "tsc",
     "dev": "nodemon src/index.js"
   },
+    "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
